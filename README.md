@@ -1,4 +1,4 @@
-# DataBase Connect Test
+# DataBase Connect Test
 
 ## 실습 목표
 1. RDB 단일 연결
